@@ -19,6 +19,7 @@ name: Fleek Configuration
 overlays: {}
 packages:
     - helix
+    - sublime4
 paths:
     - $HOME/bin
     - $HOME/.local/bin
