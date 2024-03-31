@@ -21,6 +21,7 @@
   home.packages = [
     # user selected packages
     pkgs.helix
+    pkgs.google-chrome
     # Fleek Bling
     pkgs.git
     pkgs.htop

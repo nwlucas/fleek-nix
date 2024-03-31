@@ -19,6 +19,7 @@ name: Fleek Configuration
 overlays: {}
 packages:
     - helix
+    - google-chrome
 paths:
     - $HOME/bin
     - $HOME/.local/bin
