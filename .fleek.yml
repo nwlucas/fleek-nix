@@ -19,6 +19,7 @@ name: Fleek Configuration
 overlays: {}
 packages:
     - helix
+    - jq
 paths:
     - $HOME/bin
     - $HOME/.local/bin
