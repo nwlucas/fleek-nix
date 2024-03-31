@@ -21,7 +21,6 @@
   home.packages = [
     # user selected packages
     pkgs.helix
-    pkgs.sublime4
     # Fleek Bling
     pkgs.git
     pkgs.htop
